@@ -1,0 +1,8 @@
+// JSON with Comments
+
+{
+    "hello": "Hello",
+    "punctuation": ",",
+    "world": "World",
+    "end": "!"
+}
